@@ -1,11 +1,6 @@
 # .Github
-<!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors-)
-<!-- ALL-CONTRIBUTORS-BADGE:END -->
 
-PROJECT LOGO
-
-BADGES
+![Contributors Count](https://img.shields.io/badge/dynamic/json?color=orange&style=flat-square&label=All%20Contributors&query=%24.contributors.length&url=https%3A%2F%2Fraw.githubusercontent.com%2FJoeIzzard%2F.github%2Fmaster%2F.all-contributorsrc) ![GitHub last commit](https://img.shields.io/github/last-commit/joeizzard/.github?style=flat-square)
 
 This is my default project repo. It contains the basis for many projects such as issue templates and base workflows.
 
