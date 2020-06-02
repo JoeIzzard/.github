@@ -1,0 +1,24 @@
+{
+  "files": [
+    "README.md"
+  ],
+  "imageSize": 100,
+  "commit": false,
+  "contributors": [
+    {
+      "login": "JoeIzzard",
+      "name": "Joe Izzard",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/3457283?v=4",
+      "profile": "http://joe.izzard.me",
+      "contributions": [
+        "code"
+      ]
+    }
+  ],
+  "contributorsPerLine": 7,
+  "projectName": ".github",
+  "projectOwner": "JoeIzzard",
+  "repoType": "github",
+  "repoHost": "https://github.com",
+  "skipCi": true
+}
