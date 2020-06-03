@@ -1,5 +1,4 @@
 buttons:
-    - title: Update Labels
-    action: "labels"
-    description: Update your project's labels
-    confirm: true
+    - title: Run tests
+      action: "run_tests"
+      description: Run your tests
