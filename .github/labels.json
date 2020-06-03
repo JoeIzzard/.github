@@ -14,10 +14,12 @@
     { "name": "Status: Pending", "color": "#fef2c0", "description": "Now to wait..."  },
     { "name": "Status: Review Needed", "color": "#fbca04", "description": "We need to look at this and make a decision"  },
     { "name": "Status: Revision Needed", "color": "#e11d21", "description": "Need to revise what this is about"  },
+    { "name": "Status: Stale", "color": "cccccc", "description": "This issue is stale"},
     { "name": "Priority: Low", "color": "#009800", "description": "We are aware, but need to do other things first"  },
     { "name": "Priority: Medium", "color": "#fbca04", "description": "This is important, and will get attention soon"  },
     { "name": "Priority: High", "color": "#eb6420", "description": "This is very important, should be tackled very soon"  },
     { "name": "Priority: Critical", "color": "#e11d21", "description": "This must be fixed now, nothing else should be done until this is done"  },
     { "name": "Good First Issue", "color" : "#7057ff", "description": "This is something a new contributor could tackle"  },
-    { "name": "Help Wanted", "color": "008672", "description": "Feel free to jump in and help!"} 
+    { "name": "Help Wanted", "color": "008672", "description": "Feel free to jump in and help!"},
+    { "name": "Never Stale", "color": "ffffff", "description": "These issues will never be marked stale"} 
 ]

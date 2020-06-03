@@ -2,3 +2,6 @@ buttons:
     - title: Update Labels
       action: "update_labels"
       description: Update Issue Labels
+    - title: Mark Stale
+      action: "stale_labels"
+      description: Manually Check for Stale Issues and PR's
