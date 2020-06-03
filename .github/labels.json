@@ -18,5 +18,6 @@
     { "name": "Priority: Medium", "color": "#fbca04", "description": "This is important, and will get attention soon"  },
     { "name": "Priority: High", "color": "#eb6420", "description": "This is very important, should be tackled very soon"  },
     { "name": "Priority: Critical", "color": "#e11d21", "description": "This must be fixed now, nothing else should be done until this is done"  },
-    { "name": "Good First Issue", "color" : "#7057ff", "description": "This is something a new contributor could tackle"  } 
+    { "name": "Good First Issue", "color" : "#7057ff", "description": "This is something a new contributor could tackle"  },
+    { "name": "Help Wanted", "color": "008672", "description": "Feel free to jump in and help!"} 
 ]
