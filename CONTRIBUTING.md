@@ -25,3 +25,14 @@ If you would like to work on multiple issues at the same time, or while waiting 
  [![All Contributors](https://img.shields.io/badge/%20-All%20Contributors-brightgreen?color=B1ABEA&labelColor=2D2298&style=flat-square&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAOCAYAAAAvxDzwAAAAAXNSR0IArs4c6QAAAERlWElmTU0AKgAAAAgAAYdpAAQAAAABAAAAGgAAAAAAA6ABAAMAAAABAAEAAKACAAQAAAABAAAAFKADAAQAAAABAAAADgAAAACYjX/eAAAB6klEQVQ4EY3TX2hNcRwA8HuvKaFMHhgrRlYetJKVsWkRatHaHsZIM09KGkrKg21ePCiLJE/iaaX8eaDQaqmRWJGnyZQVVjRSe1nY9fmeu3u6rT341ud8v7/v95xzf/ecezMZkc/nq2byGfWuqP8nnNvNVspZll5jMcwefrEiHcwUeqdm92Ktf4yPdHA2erk4iNhhA6epJQ0n7rO4JO9PmwrrpdIU/WynsEODBtoYYSjWhkmoW/lOxA8OFWeRrbt5zQsaqcg6XDX7xhdquJnNZt/JSZhXKoap1x8tdAtHs5OqCf5wnoPxKTWMETu8xTyD6O+NHKFuTIpZB/0qRnnFYIxjh8flIXZSzQ0W85ADdvVYTsK5ZYoTen3RsO6R3rKOMT5Fs4Ov3OYl6w2ivyVyaehdYJIdxGZaeMN9xklfTKfFXZp4QPHtl94vqc3irccHLucZXVxmY/RzivlyG/HAjzJCv358vbnikVm9QVyzhJWsYjeZnOfxW463tZa/xLPYxGEXXpTTsC63iGcb/6Y1PGEzsYlrFH7YbvpefY7P1LGA+NpH3CReUDHaFZOsJn7MC3lKr3tMyek/JaPxwfo547RSSZ52N91Ak3ob8a+6wxV+cs+10/Lc4cIy+higs/Qs60VcZ5Dm0lmx/gdhqWwGdZnwugAAAABJRU5ErkJggg==)](https://allcontributors.org/)
 
  This project follows the [All Contributors](https://allcontributors.org/) specification. Contributions of any kind are welcome!
+
+ To add yourself as a contributor, go to our stickied issue 'Add Contributors' and comment the following:
+
+ ```
+ @all-controbutors add <username> for <contribution>
+ ```
+
+ Alternatively, you can use the sme comment in an issue or pull request you helped with.
+
+ ### Supported Contribution Types
+ The [Emoji Key](https://allcontributors.org/docs/en/emoji-key) ✨ (and Contribution Types) can be found on [allcontributors.org](https://allcontributors.org)
