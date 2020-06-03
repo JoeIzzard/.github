@@ -5,3 +5,7 @@ buttons:
     - title: Mark Stale
       action: "stale_labels"
       description: Manually Check for Stale Issues and PR's
+    - title: Prune Stale
+      action: "prune_stale_labels"
+      description: Remove Stale Label items older than 7 days
+      confirm: true

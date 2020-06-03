@@ -1,0 +1,20 @@
+name: "Prune stale issues & PR's"
+on:
+  repository_dispatch:
+    types: [prune_stale_labels]
+
+jobs:
+  stale:
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/stale@v3
+      with:
+        repo-token: ${{ secrets.GITHUB_TOKEN }}
+        stale-issue-message: "This issues hasnt had any activity in a long time, as such it has been marked stale. Comment on the Issue to unmark it as stale."
+        stale-pr-message: "This pull request hasn't had any activity in a long time, as such it has been marked stale. Comment on the PR to unmark it as stale."
+        stale-issue-label: 'Status: Stale'
+        exempt-issue-labels: 'Never Stale,Status: In Progress,Status: On Hold'
+        stale-pr-label: 'Status: Stale'
+        exempt-pr-labels: 'Never Stale,Status: In Progress,Status: On Hold'
+        days-before-stale: 1
+        days-before-close: 7
