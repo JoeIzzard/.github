@@ -1,0 +1,22 @@
+[
+    { "name": "Type: Bug", "color": "#e11d21", "description": "Something isn't working" },
+    { "name": "Type: Maintenance", "color": "#fbca04", "description": "Something needs updating, e.g: Documentation"  },
+    { "name": "Type: Enhancement", "color": "#84b6eb", "description": "Something new to make this better"  },
+    { "name": "Type: Question", "color": "#cc317c", "description": "I don't understand something"  },
+    { "name": "Status: Won't Fix", "color": "ffffff", "description": "We are not going to fix this"},
+    { "name": "Status: Abandoned", "color": "#000000", "description": "It has been abandoned by whoever was working on it"  },
+    { "name": "Status: Accepted", "color": "#009800", "description": "Someone has agreeded to work on this"  },
+    { "name": "Status: Available", "color": "#bfe5bf", "description": "No one is working on this yet"  },
+    { "name": "Status: Blocked", "color": "#e11d21", "description": "We will working on it but something is stopping us"  },
+    { "name": "Status: Completed", "color": "#006b75", "description": "It's done!"  },
+    { "name": "Status: In Progress", "color": "#cccccc", "description": "We are currently working on this now"  },
+    { "name": "Status: On Hold", "color": "#e11d21", "description": "We were working on it, and will continue, but need to do something else instead"  },
+    { "name": "Status: Pending", "color": "#fef2c0", "description": "Now to wait..."  },
+    { "name": "Status: Review Needed", "color": "#fbca04", "description": "We need to look at this and make a decision"  },
+    { "name": "Status: Revision Needed", "color": "#e11d21", "description": "Need to revise what this is about"  },
+    { "name": "Priority: Low", "color": "#009800", "description": "We are aware, but need to do other things first"  },
+    { "name": "Priority: Medium", "color": "#fbca04", "description": "This is important, and will get attention soon"  },
+    { "name": "Priority: High", "color": "#eb6420", "description": "This is very important, should be tackled very soon"  },
+    { "name": "Priority: Critical", "color": "#e11d21", "description": "This must be fixed now, nothing else should be done until this is done"  },
+    { "name": "Good First Issue", "color" : "#7057ff", "description": "This is something a new contributor could tackle"  } 
+]
