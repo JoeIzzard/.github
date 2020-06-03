@@ -1,4 +1,6 @@
-on: issues
+on:
+    repository_dispatch:
+        types: [update_labels]
 name: Create Default Labels
 jobs:
   labels:

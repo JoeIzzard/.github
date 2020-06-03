@@ -1,4 +1,4 @@
 buttons:
     - title: Update Labels
-      action: "labels"
+      action: "update_labels"
       description: Update Issue Labels
