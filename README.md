@@ -2,6 +2,8 @@
 
 ![Contributors Count](https://img.shields.io/badge/dynamic/json?color=orange&style=flat-square&label=All%20Contributors&query=%24.contributors.length&url=https%3A%2F%2Fraw.githubusercontent.com%2FJoeIzzard%2F.github%2Fmaster%2F.all-contributorsrc) ![GitHub last commit](https://img.shields.io/github/last-commit/joeizzard/.github?style=flat-square) [![Actions Panel](https://img.shields.io/badge/actionspanel-enabled-brightgreen?style=flat-square)](https://www.actionspanel.app/app/JoeIzzard/.github)
 
+![GitHub Bug Issues](https://img.shields.io/github/issues/joeizzard/.github/Type:%20Bug?label=Bug%20Issues&style=flat-square) ![GitHub Maintenance Issues](https://img.shields.io/github/issues/joeizzard/.github/Type:%20Maintenance?label=Maintenance%20Issues&style=flat-square) ![GitHub Enhancement Issues](https://img.shields.io/github/issues/joeizzard/.github/Type:%20Enhancement?label=Enhancement%20Issues&style=flat-square) ![GitHub Question Issues](https://img.shields.io/github/issues/joeizzard/.github/Type:%20Question?label=Questions&style=flat-square)
+
 This is my default project repo. It contains the basis for many projects such as issue templates and base workflows.
 
 ## Contents
