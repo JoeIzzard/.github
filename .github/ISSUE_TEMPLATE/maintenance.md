@@ -2,7 +2,7 @@
 name: Maintenance
 about: Issue's such as documentation that isn't a bug
 title: ''
-labels: "Type: Maintenance"
+labels: "Type: Maintenance", "Status: Review Needed"
 assignees: ''
 
 ---
