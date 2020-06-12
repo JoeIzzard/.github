@@ -1,0 +1,22 @@
+on: 
+    push:
+        branches:
+            - master
+    pull_request:
+        branches:
+            - master
+  name: Wiki Sync
+  jobs:
+    update-wiki:
+      runs-on: ubuntu-latest
+      steps:
+      - name: Push Wiki folder to Wiki Repo
+        uses: docker://decathlon/wiki-page-creator-action:latest
+        env:
+          ACTION_MAIL: joeizzard@users.noreply.github.com
+          ACTION_NAME: JoeIzzard
+          GH_PAT: ${{ secrets.GH_PAT }}
+          MD_FOLDER: wiki
+          OWNER: joeizzard
+          REPO_NAME: .github
+          SKIP_MD: README.md
