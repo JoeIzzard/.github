@@ -10,7 +10,7 @@ jobs:
     update-wiki:
         runs-on: ubuntu-latest
         steps:
-            - name: Push Wiki Folder to Repo
+          - name: Push Wiki Folder to Repo
             uses: docker://decathlon/wiki-page-creator-action:latest
             env:
                 ACTION_MAIL: joeizzard@users.noreply.github.com
