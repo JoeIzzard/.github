@@ -16,3 +16,5 @@ jobs:
             with:
                 username: joeizzard
                 access_token: ${{ secrets.GITHUB_TOKEN }}
+                commit_username: 'Joe Izzard'
+                commit_email: 'joeizzard@users.noreply.github.com'
