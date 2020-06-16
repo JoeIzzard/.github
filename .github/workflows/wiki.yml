@@ -13,3 +13,6 @@ jobs:
           - uses: actions/checkout@master
           - name: Sync Wiki
             uses: joeizzard/action-wiki-sync@master
+            with:
+                username: joeizzard
+                access_token: ${{ secrets.GITHUB_TOKEN }}
